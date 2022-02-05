@@ -1,5 +1,5 @@
-# IMOBI
-Aplicativo desenvolvido na PyStack Week 2.0
+# Prevendo Ações
+Dashboard de ações
 
 ## Indice
 * [Instalação](#Instalação)
